@@ -1,0 +1,25 @@
+{
+  "name": "testaufgabe",
+  "version": "1.0.0",
+  "description": "testaufgabe",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khuzha/testaufgabe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khuzha/testaufgabe/issues"
+  },
+  "homepage": "https://github.com/Khuzha/testaufgabe#readme",
+  "dependencies": {
+    "mongodb": "^3.1.13",
+    "nodemon": "^1.18.9",
+    "telegraf": "^3.26.0"
+  }
+}
